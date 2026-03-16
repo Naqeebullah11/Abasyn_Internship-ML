@@ -3,13 +3,10 @@
 # This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
 
 # Projects
-# 1. Transformer-Based Chatbot
 
-Developed a conversational AI chatbot using Hugging Face’s BlenderBot (90M).
+# Fashion MNIST CNN
 
-Implemented sequence-to-sequence text generation for interactive responses.
-
-Provided hands-on experience with tokenization, model inference, and NLP pipelines.
+Built a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify Fashion-MNIST images into 10 clothing categories. Implemented image preprocessing, convolutional and pooling layers, and achieved ~90% test accuracy.
 
 # 2. NLP Spam Detection System
 
