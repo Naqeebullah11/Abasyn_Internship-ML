@@ -1,6 +1,6 @@
 # Abasyn University Internship Projects
 
-# This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
+This internship allowed me to apply theoretical knowledge to real-world problems and strengthen my practical skills in AI, data analysis, and machine learning.
 
 # Projects
 
