@@ -4,7 +4,7 @@ This internship allowed me to apply theoretical knowledge to real-world problems
 
 # Projects
 
-# Fashion MNIST CNN
+# 1. Fashion MNIST CNN
 
 Built a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify Fashion-MNIST images into 10 clothing categories. Implemented image preprocessing, convolutional and pooling layers, and achieved ~90% test accuracy.
 
